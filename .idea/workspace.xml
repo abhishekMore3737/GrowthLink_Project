@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afbc91c8-ac64-4c48-812b-3306d1570630" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/.idea/GrowthLink_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/Dataset/IMDb Movies India.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/Dataset/tested.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/Output/Predection.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/titanic_survival.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic_Survival_Predection/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic_Survival_Predection/Dataset/IMDb Movies India.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742494647281</updated>
-      <workItem from="1742494647956" duration="3315000" />
+      <workItem from="1742494647956" duration="3726000" />
     </task>
     <servers />
   </component>
